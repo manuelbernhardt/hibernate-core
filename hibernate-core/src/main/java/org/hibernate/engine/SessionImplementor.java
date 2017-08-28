@@ -237,7 +237,7 @@ public interface SessionImplementor extends Serializable {
 	public Object getFilterParameterValue(String filterParameterName);
 
 	/**
-	 * Retreive the type for a given filter parrameter.
+	 * Retreive the type for a given filter parameter.
 	 *
 	 * @param filterParameterName The filter parameter name in the format
 	 * {FILTER_NAME.PARAMETER_NAME}.
